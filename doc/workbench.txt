@@ -1,0 +1,27 @@
+./worbench_help.txt
+
+Worbench dev ideas  +++
+new filetype .vwb vim workbench
+include syntax.txt
+extend by
+conceal main document to link to files
+    tasks.txt
+    minutes.txt
+    custom1.txt
+
+profile preferences 
+mapping of 
+custom1.txt 
+custom2.txt 
+etc.
+
+integrate with outlook
+E-MAIL person: motion go: open outlook with mapped e-mail adress
+
+Minutes.txt
+Mark Done/Sent
+
+Automatic insertion in mapped document +++
+tasks is F2
+    insert selected block or visual select with <leader>+F2 at a defined
+    insertion point: Insert date stamp correctly
